@@ -1,4 +1,4 @@
-# This is a simple API with documentation in swagger
+# This is a simple API nodeJS with documentation in swagger
 
 # node-zmnkne
 
